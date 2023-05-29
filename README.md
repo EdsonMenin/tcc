@@ -1,5 +1,8 @@
 # Previsão de Resultados da Premier League usando Aprendizado de Máquina
 
+### Autor
+Edson Menin - 171947@upf.br
+
 ## Introdução
 
 Este projeto tem como objetivo prever os resultados das partidas da Premier League, a liga de futebol da Inglaterra, utilizando técnicas de Aprendizado de Máquina. O objetivo é explorar um conjunto de dados históricos das partidas e desenvolver modelos capazes de prever se um determinado jogo resultará em vitória do time da casa, vitória do time visitante ou empate.
