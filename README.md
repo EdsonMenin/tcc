@@ -49,7 +49,16 @@ Para treinamento da rede, foram utilizados as seguintes informações sobre cada
 ## Resultados
 
 No teste A, foi obtido uma acurácia de 54.03\% e F1 Score de 54.03\% nos dados de teste, enquanto no conjunto de treinamento, o modelo obteve um desempenho com acurácia de 53.62\%.
+
+Comparativo de acertos e erros do Teste A
+
+![Comparativo de acertos e erros](https://raw.githubusercontent.com/EdsonMenin/tcc/main/PREV_BAR_1.png)
+
 Para o teste B, houve uma melhoria significativa nos resultados obtidos, no qual alcançou uma  acurácia de 64.47\% e F1 Score de 64.47\% nos dados de teste, e no conjunto de treinamento, o modelo obteve o mesmo desempenho, com acurácia de 64.47\%.
+
+Comparativo de acertos e erros do Teste B
+
+![Comparativo de acertos e erros](https://raw.githubusercontent.com/EdsonMenin/tcc/main/PREV_BAR_2.png)
 
 ## Implementação
 
